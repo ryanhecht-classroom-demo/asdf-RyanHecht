@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "my test",
+      "setup": "",
+      "run": "hi",
+      "input": "1 ",
+      "output": "2",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
